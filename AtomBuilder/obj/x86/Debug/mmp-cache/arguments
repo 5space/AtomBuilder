@@ -1,0 +1,30 @@
+# Version: 6.16.0.13 (d16-5-xcode11.4): b75deaf82)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.Mac.framework/Versions/6.16.0.13/lib/mmp/mmp.exe
+/Library/Frameworks/Xamarin.Mac.framework/Versions/6.16.0.13/lib/mmp/mmp.exe \
+	/debug \
+	/output:/Users/5space/Projects/AtomBuilder/AtomBuilder/bin/Debug/ \
+	/name:AtomBuilder \
+	' /profile:Xamarin.Mac,Version=v4.5,Profile=System' \
+	' /arch:x86_64' \
+	' --http-message-handler=HttpClientHandler' \
+	' /minos=10.9' \
+	' /nolink' \
+	/assembly:/Library/Frameworks/Mono.framework/External/xbuild/MonoGame/v3.0/Assemblies/DesktopGL/MonoGame.Framework.dll \
+	/assembly:/Library/Frameworks/Mono.framework/Versions/6.6.0/lib/mono/4.5-api/mscorlib.dll \
+	/assembly:/Library/Frameworks/Mono.framework/Versions/6.6.0/lib/mono/4.5-api/System.Core.dll \
+	/assembly:/Library/Frameworks/Mono.framework/Versions/6.6.0/lib/mono/4.5-api/System.dll \
+	/assembly:/Library/Frameworks/Mono.framework/Versions/6.6.0/lib/mono/4.5-api/System.Drawing.dll \
+	/assembly:/Library/Frameworks/Mono.framework/Versions/6.6.0/lib/mono/4.5-api/System.Xml.dll \
+	/assembly:/Library/Frameworks/Mono.framework/Versions/6.6.0/lib/mono/4.5-api/System.Xml.Linq.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/4.5/Xamarin.Mac.dll \
+	/assembly:/Library/Frameworks/Mono.framework/External/xbuild/MonoGame/v3.0/Assemblies/DesktopGL/MonoGame.Framework.dll \
+	/root-assembly:/Users/5space/Projects/AtomBuilder/AtomBuilder/bin/Debug/AtomBuilder.exe \
+	/native-reference:/Library/Frameworks/Mono.framework/External/xbuild/MonoGame/v3.0/Assemblies/DesktopGL/libopenal.1.dylib \
+	/native-reference:/Library/Frameworks/Mono.framework/External/xbuild/MonoGame/v3.0/Assemblies/DesktopGL/libSDL2-2.0.0.dylib \
+	/sdkroot:/Applications/Xcode.app/Contents/Developer \
+	--cache:/Users/5space/Projects/AtomBuilder/AtomBuilder/obj/x86/Debug/mmp-cache \
+	@/Users/5space/Projects/AtomBuilder/AtomBuilder/obj/x86/Debug/response-file.rsp \
+	-q \
+	-q \
+	-q \
+	-q \

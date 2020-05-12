@@ -1,0 +1,2 @@
+AL lib: (WW) GetProcPath: Failed to readlink /proc/self/file: No such file or directory
+AL lib: (WW) alc_initconfig: Failed to initialize backend "jack"

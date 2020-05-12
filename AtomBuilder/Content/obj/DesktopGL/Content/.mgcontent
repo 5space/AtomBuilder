@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/5space/Projects/AtomBuilder/AtomBuilder/Content/Fonts/AtomicNumberFont.spritefont</File>
+    <File>/Users/5space/Projects/AtomBuilder/AtomBuilder/Content/Fonts/ConfigurationFont.spritefont</File>
+    <File>/Users/5space/Projects/AtomBuilder/AtomBuilder/Content/Fonts/ElementNameFont.spritefont</File>
+    <File>/Users/5space/Projects/AtomBuilder/AtomBuilder/Content/Fonts/ElementSymbolFont.spritefont</File>
+    <File>/Users/5space/Projects/AtomBuilder/AtomBuilder/Content/Models/sphere.fbx</File>
+    <File>/Users/5space/Projects/AtomBuilder/AtomBuilder/Content/Textures/ActinideSeries.png</File>
+    <File>/Users/5space/Projects/AtomBuilder/AtomBuilder/Content/Textures/AddButton.png</File>
+    <File>/Users/5space/Projects/AtomBuilder/AtomBuilder/Content/Textures/AlkaliMetals.png</File>
+    <File>/Users/5space/Projects/AtomBuilder/AtomBuilder/Content/Textures/AlkalineEarthMetals.png</File>
+    <File>/Users/5space/Projects/AtomBuilder/AtomBuilder/Content/Textures/ElementBackground.png</File>
+    <File>/Users/5space/Projects/AtomBuilder/AtomBuilder/Content/Textures/LanthanideSeries.png</File>
+    <File>/Users/5space/Projects/AtomBuilder/AtomBuilder/Content/Textures/MinusButton.png</File>
+    <File>/Users/5space/Projects/AtomBuilder/AtomBuilder/Content/Textures/NobleGases.png</File>
+    <File>/Users/5space/Projects/AtomBuilder/AtomBuilder/Content/Textures/Nonmetals.png</File>
+    <File>/Users/5space/Projects/AtomBuilder/AtomBuilder/Content/Textures/Pencil.png</File>
+    <File>/Users/5space/Projects/AtomBuilder/AtomBuilder/Content/Textures/PoorMetals.png</File>
+    <File>/Users/5space/Projects/AtomBuilder/AtomBuilder/Content/Textures/TopLeftCorner.png</File>
+    <File>/Users/5space/Projects/AtomBuilder/AtomBuilder/Content/Textures/TransitionMetals.png</File>
+    <File>/Users/5space/Projects/AtomBuilder/AtomBuilder/Content/Textures/UnknownElementGroup.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
